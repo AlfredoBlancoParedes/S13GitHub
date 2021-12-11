@@ -15,4 +15,4 @@ except:
 db.commit()
 cursor.close()
 db.close()
-
+# Añado un comentario para modificar el fichero y generar el commit 2
